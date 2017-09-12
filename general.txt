@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Duty>
-	<StartTime>15:00:00</StartTime>
+	<StartTime>11:00:00</StartTime>
 	<FinishTime>05:00:00</FinishTime>
 	<RoundPeriod>00:20:00</RoundPeriod>
 	<RoundDelay>00:10:00</RoundDelay>
@@ -10,7 +10,7 @@
 	<NFCPoints>
 		<Point>
 			<UID>BA3A85D3</UID>
-			<Name>Point 1B</Name>
+			<Name>Point 1C</Name>
 			<DelayBeforeActivation>00:00:05</DelayBeforeActivation>
 			<ReadTime>00:02:00</ReadTime>
 		</Point>
