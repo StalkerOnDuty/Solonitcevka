@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Duty>
 	<StartTime>08:00:00</StartTime>
-	<FinishTime>07:00:00</FinishTime>
+	<FinishTime>05:00:00</FinishTime>
 	<RoundPeriod>00:30:00</RoundPeriod>
 	<RoundDelay>00:15:00</RoundDelay>
 	<MinPresenceControlInterval>00:10:00</MinPresenceControlInterval>
