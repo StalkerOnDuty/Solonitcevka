@@ -2,8 +2,8 @@
 <Duty>
 	<StartTime>08:00:00</StartTime>
 	<FinishTime>05:00:00</FinishTime>
-	<RoundPeriod>00:30:00</RoundPeriod>
-	<RoundDelay>00:15:00</RoundDelay>
+	<RoundPeriod>00:35:00</RoundPeriod>
+	<RoundDelay>00:10:00</RoundDelay>
 	<MinPresenceControlInterval>00:10:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:15:00</MaxPresenceControlInterval>
 	<PresenceControlReactionTime>00:00:15</PresenceControlReactionTime>
