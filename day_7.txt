@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Duty>
 	<StartTime>08:00:00</StartTime>
-	<FinishTime>05:00:00</FinishTime>
-	<RoundPeriod>00:35:00</RoundPeriod>
+	<FinishTime>07:00:00</FinishTime>
+	<RoundPeriod>00:50:00</RoundPeriod>
 	<RoundDelay>00:10:00</RoundDelay>
 	<MinPresenceControlInterval>00:10:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:15:00</MaxPresenceControlInterval>
 	<PresenceControlReactionTime>00:00:15</PresenceControlReactionTime>
 	<NFCPoints>
 		<Point>
-			<UID>A456731A</UID>
-			<Name>Point 1A</Name>
+			<UID>394EDBF9</UID>
+			<Name>Point 1M</Name>
 			<DelayBeforeActivation>00:00:05</DelayBeforeActivation>
 			<ReadTime>00:02:00</ReadTime>
 		</Point>
 		<Point>
-			<UID>60776F3B</UID>
-			<Name>Point 2A</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
-			<ReadTime>00:04:30</ReadTime>
+			<UID>5B7CE421</UID>
+			<Name>Point 2M</Name>
+			<DelayBeforeActivation>00:05:00</DelayBeforeActivation>
+			<ReadTime>00:02:00</ReadTime>
 		</Point>
 		<Point>
-			<UID>4ABC4E39</UID>
-			<Name>Point 3A</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
-			<ReadTime>00:04:30</ReadTime>
+			<UID>39500CD1</UID>
+			<Name>Point 3M</Name>
+			<DelayBeforeActivation>00:04:30</DelayBeforeActivation>
+			<ReadTime>00:02:00</ReadTime>
+		</Point>
+		<Point>
+			<UID>395084C3</UID>
+			<Name>Point 4M</Name>
+			<DelayBeforeActivation>00:07:00</DelayBeforeActivation>
+			<ReadTime>00:02:00</ReadTime>
+		</Point>
+			<Point>
+			<UID>39508D02</UID>
+			<Name>Point 5M</Name>
+			<DelayBeforeActivation>00:06:30</DelayBeforeActivation>
+			<ReadTime>00:02:00</ReadTime>
 		</Point>
 	</NFCPoints>
 </Duty>
