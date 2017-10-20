@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
     <ID>3</ID>
-    <ObjectName>Автозапчасть</ObjectName>
+    <ObjectName>Солоницевка</ObjectName>
     <Server>http://stalker.megadevices.com.ua/add_log.php</Server>
     <APN>www.mts.ua</APN>
     <MasterToken>0C00488A15</MasterToken>
     <PhoneBook>
         <Phone>+380663503613</Phone>
-		<Phone>+380954720318</Phone>
+	<Phone>+380954720318</Phone>
     </PhoneBook>
     <SaveLogcatLogs>true</SaveLogcatLogs>
     <SendSMSAfterServicesFail>false</SendSMSAfterServicesFail>
