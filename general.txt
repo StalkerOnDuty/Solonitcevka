@@ -6,7 +6,7 @@
 	<RoundDelay>00:10:00</RoundDelay>
 	<MinPresenceControlInterval>00:10:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:15:00</MaxPresenceControlInterval>
-	<PresenceControlReactionTime>00:00:15</PresenceControlReactionTime>
+	<PresenceControlReactionTime>00:00:59</PresenceControlReactionTime>
 	<NFCPoints>
 		<Point>
 			<UID>F9DB4E39</UID>
