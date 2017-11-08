@@ -9,7 +9,7 @@
         <Phone>+380663503613</Phone>
 	<Phone>+380954720318</Phone>
     </PhoneBook>
-    <SaveLogcatLogs>true</SaveLogcatLogs>
+    <SaveLogcatLogs>false</SaveLogcatLogs>
     <SendSMSAfterServicesFail>false</SendSMSAfterServicesFail>
     <UpdateTime>16:00</UpdateTime>
     <UpdateInterval>60</UpdateInterval>
