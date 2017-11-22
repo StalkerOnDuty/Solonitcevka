@@ -3,7 +3,7 @@
 	<StartTime>08:00:00</StartTime>
 	<FinishTime>06:00:00</FinishTime>
 	<RoundPeriod>00:45:00</RoundPeriod>
-	<RoundDelay>00:15:00</RoundDelay>
+	<RoundDelay>00:10:00</RoundDelay>
 	<MinPresenceControlInterval>00:10:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:15:00</MaxPresenceControlInterval>
 	<PresenceControlReactionTime>00:00:59</PresenceControlReactionTime>
@@ -30,7 +30,7 @@
 			<UID>D10C5039</UID>
 			<Name>Point 3</Name>
 			<DelayBeforeActivation>00:08:00</DelayBeforeActivation>
-			<ReadTime>00:09:30</ReadTime>
+			<ReadTime>00:19:30</ReadTime>
 		</Point>
 		<Point>
 			<UID>21E47C5B</UID>
