@@ -13,7 +13,7 @@
     <SendSMSAfterServicesFail>false</SendSMSAfterServicesFail>
     <UpdateTime>16:00</UpdateTime>
     <UpdateInterval>60</UpdateInterval>
-    <LogUploadingInterval>60</LogUploadingInterval>
+    <LogUploadingInterval>10</LogUploadingInterval>
     <USSDTime>23:19</USSDTime>
     <USSDString>*101#</USSDString>
 </Configuration>
