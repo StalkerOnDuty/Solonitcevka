@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
-    <ID>3</ID>
+    <ID>4</ID>
     <ObjectName>Солоницевка</ObjectName>
     <Server>http://priborohrani.dyndns.org:8080/logs</Server>
     <APN>www.mts.ua</APN>
